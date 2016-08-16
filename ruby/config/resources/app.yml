@@ -1,0 +1,6 @@
+production:
+    ftp:
+      host: '95.91.209.255'
+      user: 'anonymous'
+      password: 'jo@glob.com'
+      filename: '1mb.pak'
