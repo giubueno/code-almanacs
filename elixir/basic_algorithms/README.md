@@ -10,7 +10,7 @@ by adding `basic_algorithms` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:elixir, "~> 0.1.0"}
+    {:basic_algorithms, "~> 0.1.0"}
   ]
 end
 ```
